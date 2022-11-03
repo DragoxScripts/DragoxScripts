@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DragoxScripts
 - 👀 I’m interested in ... Learning how to code!
 - 🌱 I’m currently learning ... JS and Scratch
-- 💞️ I’m looking to collaborate on ... anythig
+- 💞️ I’m looking to collaborate on ... anything
 
 <!---
 DragoxScripts/DragoxScripts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
